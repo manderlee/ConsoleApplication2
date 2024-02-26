@@ -1,4 +1,4 @@
-﻿яяяяяяяяяяяя
+﻿
 
 #include <iostream>
 
